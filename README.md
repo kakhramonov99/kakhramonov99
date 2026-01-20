@@ -9,7 +9,7 @@
 
 ## 🧠 About Me
 
-- 🎓 PhD's student
+- 🎓 Software | AI Engineer (BSc|MSc|~PhD)
 - 🤖 AI Engineer focused on Computer Vision & Deep and Machine Learning, Data anaylsis, Generative AI
 - 📊 Experience with CNNs, Transfer Learning, Model Optimization
 - 🧪 Worked on Facial Expression Recognition, Object Detection
