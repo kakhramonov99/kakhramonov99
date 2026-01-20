@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kakhramonov Shakhzod</h1>
+<h1 align="center">Hello 👋, I'm Kakhramonov Shakhzod Sherzod ugli</h1>
 <h3 align="center">AI Engineer | Computer Vision & Deep and Machine Learning</h3>
 
 <p align="center">
