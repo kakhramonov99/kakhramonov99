@@ -85,7 +85,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shakhzod-kakhramonov-062993224/">
+  <a href="https://www.linkedin.com/in/kakhramonov99/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://t.me/sh_kakhramonov">
