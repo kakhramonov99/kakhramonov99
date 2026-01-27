@@ -15,6 +15,11 @@
 - 🧪 Worked on Facial Expression Recognition, Object Detection
 - 🧠 Interested in AI for Robotics & Intelligent Systems
 - 📝 Research-oriented mindset (experiments, evaluation, comparison)
+- <p align="center">
+  <a href="https://kakhramonov99.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐_View_My_Portfolio-0a4d68?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ---
 
