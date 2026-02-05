@@ -101,8 +101,8 @@
   <a href="mailto:qahramonovshahzod3366@gmail.com">
     <img src="https://img.shields.io/badge/Email-qahramonovshahzod3366@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="tel:01079316444">
-    <img src="https://img.shields.io/badge/Phone-+82--10--7931--6444-0A66C2?style=for-the-badge"/>
+  <a href="tel:**********">
+    <img src="https://img.shields.io/badge/Phone-+xx--xx--xxxx--xxxx-0A66C2?style=for-the-badge"/>
   </a>
 </p>
 
