@@ -82,6 +82,9 @@
 - 📌 In-Cabin Driver Monitoring System  
   Real-time driver state monitoring using facial landmarks and eye detection  
   for drowsiness and distraction detection inside vehicles
+  
+- 📌 Machine Learning Model Builder Web App
+  A modular machine learning platform built with Streamlit that automates data preprocessing, feature scaling, supervised and unsupervised model training, and evaluation. The system dynamically detects task type, supports multiple ML  algorithms, provides correlation analysis, feature importance visualization, and clustering analysis with PCA, all within an interactive web interface.
 
 ---
 
